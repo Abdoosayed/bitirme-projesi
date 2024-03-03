@@ -1,13 +1,23 @@
 
-import Itemcard from './components/Itemcard'
+import Catagorisnav from './components/Catagorisnav'
+import Siteroutes from './Siteroutes'
 
 function App() {
 
   return (
+  
     <>
-    <Itemcard/>
+      <div className="container">
+        <div className='col-sm-12'>
+          
+          <Catagorisnav />
+          <Siteroutes/>
+        </div>
+      </div>
+      
     </>
+    
   )
-}
+} 
 
 export default App
