@@ -5,6 +5,7 @@ function catagorisnav() {
   return (
     <ul className="nav nav-tabs" data-bs-theme="dark">
 
+      <NavLink className="nav-link" to="/" >ANASAYFA</NavLink>
       <NavLink className="nav-link" to="/Aperatifler" >APERATİFLER</NavLink>
       <NavLink className="nav-link" to="/TATLILAR" >TATLILAR</NavLink>
       <NavLink className="nav-link" to="/KAHVALTILAR" >KAHVALTILAR</NavLink>
