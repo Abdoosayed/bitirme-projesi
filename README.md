@@ -5,4 +5,5 @@ projenin kategoriler sayfasında da kategoriler yine tekrarlanmadan çektim ve o
 en son sayfada da bütün APİdeki bulunan ürünlerin ve verilerin gösterilmesini sağladım 
 projeyi biraz daha geliştirilmeye ihtiyacı vardır özellikle Api o ürünlerin resimlerini eklenirse çok muhteşem olur ona göre oradaki her ürünün kendi resmi gösterilir.
 
-projenin vercel bağlantısı
+projenin vercel bağlantısı:
+https://bitirme-projesi-ruby.vercel.app/
