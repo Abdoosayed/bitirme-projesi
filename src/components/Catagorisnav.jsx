@@ -5,13 +5,9 @@ function catagorisnav() {
   return (
     <ul className="nav nav-tabs" data-bs-theme="dark">
 
-      <NavLink className="nav-link" to="/" >ANASAYFA</NavLink>
+      <NavLink className="nav-link" to="/" >ANA SAYFA</NavLink>
       <NavLink className="nav-link" to="/Categoris" >KATEGORİLER</NavLink>
-      <NavLink className="nav-link" to="/Subeler" >ŞUBELER</NavLink>
-      <NavLink className="nav-link" to="/KAHVALTILAR" >KAHVALTILAR</NavLink>
-      <NavLink className="nav-link" to="/Baslangiclar" >BAŞLANGIÇLAR</NavLink>
-      <NavLink className="nav-link" to="/ARASICAKLAR" >ARA SICAKLAR</NavLink>
-      <NavLink className="nav-link" to="/Sicakicecek" >SICAK İÇECEKLER</NavLink>
+      <NavLink className="nav-link" to="/URUNLER" >ÜRÜNLER</NavLink>
 
     </ul>
   )

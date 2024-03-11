@@ -4,7 +4,7 @@ import FetchAxios from '../components/FetchAxios'
 function Anasayfa() {
   return <>
   <br />
-    <h1>ÜRÜNLER</h1>
+    <h1 className="text-center">ÜRÜNLER</h1>
     <br />
     <FetchAxios/>
   </>

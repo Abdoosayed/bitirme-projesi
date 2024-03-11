@@ -33,6 +33,9 @@ const Subeler = () => {
 
     return (
         <>
+            <br/>
+            <h1 className="text-center">ŞUBELER</h1>
+            <br/>
             <div className='row row-cols-md-4 row-cols-sm-3'>
                 {state.length > 0 && state.map((item, index) => (
 
