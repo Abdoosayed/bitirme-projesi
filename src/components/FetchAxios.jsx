@@ -17,7 +17,7 @@ const FetchAxios = () => {
 
 
     return (
-        <div className='row row-col-sm-5' >
+        <div className='row row-cols-md-4 row-cols-sm-3' >
             {state.length > 0 && state.map((item, index) => (
                 <Itemcard key={index} item={item}/>
             ))}
