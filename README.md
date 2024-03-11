@@ -1,8 +1,8 @@
-# React + Vite
+Porjenin temel konusu Bursa'daki bulunan belediye restorantlarını online menusunu yapmaktı.
+yanlız Açık veri sitesindeki kullandığım APİ nin içinde ürünlerin resimleri yoktu mesla ondan örnek bir resim kullanmak zorunda kaldım
+projenin Ana sayfasında APİ de bulunan butun şubeler tekrarlanmadan çektim ve kart düzenine soktum 
+projenin kategoriler sayfasında da kategoriler yine tekrarlanmadan çektim ve orda sunumunu yaptım 
+en son sayfada da bütün APİdeki bulunan ürünlerin ve verilerin gösterilmesini sağladım 
+projeyi biraz daha geliştirilmeye ihtiyacı vardır özellikle Api o ürünlerin resimlerini eklenirse çok muhteşem olur ona göre oradaki her ürünün kendi resmi gösterilir.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+projenin vercel bağlantısı
